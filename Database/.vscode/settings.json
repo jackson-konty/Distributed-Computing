@@ -1,0 +1,7 @@
+{
+    "docwriter.style": "NumPy",
+    "python.analysis.extraPaths": [
+        "./server_cluster",
+        "./data_classes"
+    ]
+}
